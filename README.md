@@ -1,6 +1,7 @@
-# Arm Assembly Emulator
+# Arm Assembly Emulator Project
 Writer: Porfirio Mohabir (pkmohabir1)
 Writer: Natalia Jones (nljones4)
+CS 315 Computer Architecture
 
 # Project overview
 Program will emualate for ARM assembly language in C. Project was done on Raspberry pi
