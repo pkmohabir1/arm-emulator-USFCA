@@ -5,7 +5,7 @@ CS 315 Computer Architecture
 
 # Project overview
 Program will emualate for ARM assembly language in C. Project was done on Raspberry pi <br />
-Project rRcource: https://iitd-plos.github.io/col718/ref/arm-instructionset.pdf
+Project Resource: https://iitd-plos.github.io/col718/ref/arm-instructionset.pdf
 
 # Project Compenents
 
