@@ -19,7 +19,7 @@ Program will emualate for ARM assembly language in C. Project was done on Raspbe
  4. # of instructions in total
  ```
 # Execute
-C driver will call both the natively assembled version of your programs and  the emulated version of each program.   
+C driver will call both the natively assembled version programs and the emulated version of each program.   
 
 
 
