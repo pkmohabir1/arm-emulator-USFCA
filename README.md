@@ -22,7 +22,7 @@ Program will emualate for ARM assembly language in C. Project was done on Raspbe
 # Assebemly Files
 
 ```bash
-- Quadratic_s.s (Quadratic function)
+- quadratic_s.s (Quadratic function)
 - sum_array_s.s (Sum of array function)
 - strlen_s.s    (String length funtion)
 - find_max_s.s  (Find Max Function)
